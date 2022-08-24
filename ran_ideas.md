@@ -3,7 +3,7 @@
 2. Semina del pomodoro:
    * Rover
 3. Spaziatura delle piante:
-   <img src="images/tomato-spacing.jpg">
+   <img src="images/tomato-spacing.jpg" height="300" width="600">
    * Rover
 4. Piantare le piantine:
    * Non necessaria
@@ -11,12 +11,12 @@
    * Manuale
 6. Irrigazione:
    * Automatico con sensore di umiditá del suolo. 
-   <img src="images/Sensore%20di%20umiditá%20del%20suolo.jpg" >
+   <img src="images/Sensore%20di%20umiditá%20del%20suolo.jpg" height="300" width="600">
 7. Raccolta:
    * Manuale
 8. Spargere medicinali:
    * Valvola Automatica Sprinkler. 
-   <img src="images/sprinkler.jpg" >
+   <img src="images/sprinkler.jpg" height="300" width="600">
 
 Cose difficili:
 * Estirpare erbacce
