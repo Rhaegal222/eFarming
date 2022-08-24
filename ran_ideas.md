@@ -3,7 +3,7 @@
 2. Semina del pomodoro:
    * Rover
 3. Spaziatura delle piante:
-   <img src="https://www.gardeningknowhow.com/wp-content/uploads/2014/03/tomato-spacing.jpg">
+   <img src="images/tomato-spacing.jpg">
    * Rover
 4. Piantare le piantine:
    * Non necessaria
