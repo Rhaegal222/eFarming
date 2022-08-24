@@ -10,11 +10,13 @@
 5. Costruire i sostegni e legare il pomodoro:
    * Manuale
 6. Irrigazione:
-   * Automatico con sensore di umiditá del suolo. <img src="images/Sensore%20di%20umiditá%20del%20suolo.jpg" >
+   * Automatico con sensore di umiditá del suolo. 
+   <img src="images/Sensore%20di%20umiditá%20del%20suolo.jpg" >
 7. Raccolta:
    * Manuale
 8. Spargere medicinali:
-   * Valvola Automatica Sprinkler. <img src="images/sprinkler.jpg" >
+   * Valvola Automatica Sprinkler. 
+   <img src="images/sprinkler.jpg" >
 
 Cose difficili:
 * Estirpare erbacce
