@@ -3,7 +3,7 @@
 :uk:
 
 :it:
-<p><b>Informazioni utili: Come si coltiva il pomodoro</b></p>
+<p><b>Informazioni utili sulla conltivazione del pomodoro</b></p>
 
 <p>Il pomodoro è una pianta originaria del Perù, coltivata in Messico prima dai Maya e poi dagli Atzechi. Negli ultimi 200 anni è diventata uno delle più importanti colture da orto, sono state selezionate moltissime varietà da coltivare, adeguando la pianta ai più disparati climi e terreni.</p>
 <p>Si tratta di un ortaggio che non può mancare in ogni buon orto domestico, per cui eccoci qui a darvi alcuni consigli su come coltivare i pomodori. Come sempre consideriamo di far crescere le nostre orticole nel rispetto della coltivazione biologica, ossia senza usare insetticidi chimici di sintesi ma con metodi naturali di difesa. Lo scopo è di ottenere ortaggi sani e sostenibili, vedremo come farlo qui di seguito.</p>
