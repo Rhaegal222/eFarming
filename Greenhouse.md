@@ -1,0 +1,1 @@
+<img src="images/greenhouse.jpg" width="400" height="300">
