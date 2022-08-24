@@ -12,4 +12,12 @@
 6. Irrigazione:
    * Automatico con sensore di umiditá del suolo. <img src="images/Sensore%20di%20umiditá%20del%20suolo.jpg" >
 7. Raccolta:
-   * Mo vediamo
+   * Manuale
+8. Spargere medicinali:
+   * Valvola Automatica Sprinkler. <img src="images/sprinkler.jpg" >
+
+Cose difficili:
+* Estirpare erbacce
+* Riconoscere malattie
+* Raccogliere pomodori
+* Rilevare insetti
