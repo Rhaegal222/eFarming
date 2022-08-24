@@ -26,4 +26,18 @@
 </ul>
 
 <span id="Il_terreno_e_il_clima_adatti_ai_pomodori">Il terreno e il clima adatti ai pomodori</span>
+<p><strong>Terreno.</strong>&nbsp;Il terreno ideale per coltivare i pomodori è con ph=6, il suolo deve essere abbastanza sciolto e drenante, privo di ristagni d’acqua che favorirebbero malattie della pianta. Per ottenere un buon raccolto inoltre il terreno deve essere ricco di nutrimenti e sostanza organica. I pomodori infatti sono un ortaggio abbastanza “ingordo”.</p>
 <p><strong>Clima</strong>. Anche se sono state selezionati tipi di pomodoro abbastanza resistenti al freddo si tratta comunque di una pianta che teme il gelo, e soprattutto che richiede un’ottima esposizione solare. Si possono coltivare pomodori praticamente in tutta Italia, a patto di avere un appezzamento baciato dal sole. La pianta teme anche un’aridità eccessiva, che può essere limitata da pacciamatura e irrigazioni.</p>
+
+<span id="Concimazione_del_pomodoro">Concimazione del pomodoro</span>
+<p>La concimazione del pomodoro è&nbsp; molto importante per un buon raccolto, in particolare se il terreno è già stato coltivato in precedenza. L’apporto più importante di sostanza organica è la “concimazione di fondo”: consiste nel mettere il fertilizzante in fase di lavorazione preparatoria del terreno.</p>
+<p>Come quantità calcoliamo 0,6 kg di concime organico pellettato al metro quadro, 10 volte tanto se si tratta di letame o compost maturo. Potendo scegliere è sempre meglio usare il letame maturo piuttosto che i pellet, visto che apportando più sostanza si ammenda il suolo, migliorandone la struttura. Se la produzione è scalare si può intervenire in corso d’opera con aggiunte di concimazione, intervenendo anche con prodotti organici idrosolubili come sangue di bue o borlande (residui della lavorazione della barbabietola).</p>
+
+<span id="Come_si_seminano_i_pomodori">Come si seminano i pomodori</span>
+<p><strong>Seminare le piante di pomodoro.</strong> Il pomodoro va seminato in seminiera, tra febbraio e marzo, il seme germoglia in una settimana circa. Deve essere collocato in un ambiente caldo: occorrono circa 24 gradi per germogliare. Richiede poi almeno 13 gradi per crescere. Il pomodoro è una pianta sensibile alla temperatura piuttosto che alle ore di luce.</p>
+
+<span id="Sesto_di_impianto">Sesto di impianto</span>
+<p>Per decidere a che distanza trapiantare le piantine di pomodoro bisogna sapere se la pianta è a portamento determinato (smette di crescere arrivata a una certa dimensione, quindi non richiede supporti) oppure a portamento indeterminato (occorre predisporre supporti). I pomodori da orto solitamente sono a crescita indeterminata e si fanno file distanti 70 cm (50 cm lungo la fila tra una pianta e l’altra), è comodo <strong>disporre a bina i sostegni</strong> (fare due file appaiate, i sostegni si incrociano in alto, dove si legano, in questo modo il sostegno guadagna stabilità e una parte non subisce mai traumi alle radici. Le piante a portamento determinato si trapiantano a file distanti 120 cm e a 70 cm sulla fila, la distanza è maggiore perché hanno uno sviluppo in orizzontale.</p>
+
+<span id="Piantare_le_piantine">Piantare le piantine</span>
+<p><strong>Il trapianto del pomodoro</strong>: dalla semina in semenzaio si passa poi in vaso, fino allo stadio di prefioritura. A questo punto si può trapiantare, a patto che le temperature minime siano di almeno 10 gradi. I fiori hanno bisogno di minimo 13 gradi per allegare, altrimenti c’è una cascola senza frutto. Il trapianto in fase di prefioritura, quando le piante sono alte circa 30 cm, permette di disporre le piantine con i fiori rivolti all’esterno dell’aiuola, così tutti i fiori emergeranno da quel lato e sarà molto comoda la raccolta.</p>
