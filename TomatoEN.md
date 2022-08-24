@@ -11,7 +11,7 @@
 <li><a href="#EN_Il_terreno_e_il_clima_adatti_ai_pomodori">The right soil and climate for tomatoes</a></li>
 <li><a href="#EN_Concimazione_del_pomodoro">Fertilization of tomato</a></li>
 <li><a href="#EN_Come_si_seminano_i_pomodori">How tomatoes are sow</a>
-<ul><li><a href="#EN_Sesto_di_impianto">Spacing</a></li></ul></li>
+<ul><li><a href="#EN_Sesto_di_impianto">Plant Spacing</a></li></ul></li>
 <li><a href="#EN_Piantare_le_piantine">Plant the seedlings</a></li>
 <li><a href="#EN_Coltivare_il_pomodoro">Grow the tomato</a><ul>
 <li><a href="#EN_Costruire_i_sostegni_e_legare_il_pomodoro">Build the supports and tie the tomato</a></li>
