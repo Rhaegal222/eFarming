@@ -41,3 +41,4 @@
 
 <b><span id="Piantare_le_piantine">Piantare le piantine</span></b>
 <p><strong>Il trapianto del pomodoro</strong>: dalla semina in semenzaio si passa poi in vaso, fino allo stadio di prefioritura. A questo punto si può trapiantare, a patto che le temperature minime siano di almeno 10 gradi. I fiori hanno bisogno di minimo 13 gradi per allegare, altrimenti c’è una cascola senza frutto. Il trapianto in fase di prefioritura, quando le piante sono alte circa 30 cm, permette di disporre le piantine con i fiori rivolti all’esterno dell’aiuola, così tutti i fiori emergeranno da quel lato e sarà molto comoda la raccolta.</p>
+<b><span id="Coltivare_il_pomodoro">Coltivare il pomodoro</span></b>
